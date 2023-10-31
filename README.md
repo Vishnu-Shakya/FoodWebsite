@@ -1,3 +1,3 @@
 first Go to project folder 
-#npm install 
-#npm start 
+### `npm install`
+### `npm start `
